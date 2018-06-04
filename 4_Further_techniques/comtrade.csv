@@ -1,0 +1,510 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,691952919,,691952919,,759810443,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,79842,,79842,,70739,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,44410,,44410,,51427,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8553862,,8553862,,15899868,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3356748,,3356748,,6589110,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,819283,,819283,,1052118,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5243,,5243,,17758,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,97844,,97844,,141882,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2564153,,2564153,,4395125,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1523637,,1523637,,1738844,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,336481,,336481,,315709,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1909303,,1909303,,2513830,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,193727,,193727,,143348,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,967012,,967012,,1057705,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,106302123,,106302123,,166904859,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2953911,,2953911,,3045411,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,148,Chad,TCD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,196251,,196251,,330000,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,109750378,,109750378,,136889121,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5217756,,5217756,,8045941,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14887775,,14887775,,14577577,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,6223508,,6223508,,4941958,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,192,Cuba,CUB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,655189,,655189,,417542,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,154451,,154451,,254267,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2558383,,2558383,,3318520,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,9622403,,9622403,,8988884,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3037,,3037,,4374,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,75291,,75291,,76500,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4624,,4624,,9704,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,350114,,350114,,585399,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1956747,,1956747,,3382629,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,284515,,284515,,326464,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1117733,,1117733,,1157452,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,45192,,45192,,66813,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,308,Grenada,GRD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,15997,,15997,,16740,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,6107494,,6107494,,10430671,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,328,Guyana,GUY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,718,,718,,8729,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,9901,,9901,,14782,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,13702284,,13702284,,15702215,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1614602,,1614602,,2053883,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,84071,,84071,,115123,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,23423,,23423,,61523,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,368,Iraq,IRQ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,297504,,297504,,480000,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1182462,,1182462,,1786220,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,175947,,175947,,168955,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1489379,,1489379,,2848950,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,156682,,156682,,223652,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4015917,,4015917,,6604748,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11447,,11447,,12136,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,71249,,71249,,130771,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,37758,,37758,,73877,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,22482148,,22482148,,28397671,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,414,Kuwait,KWT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,309797,,309797,,309751,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,150534,,150534,,308297,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,48968,,48968,,47280,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,59987,,59987,,107750,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,865933,,865933,,1378612,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,166358,,166358,,307597,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,233218562,,233218562,,147659793,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,13739108,,13739108,,16459202,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,865842,,865842,,1527285,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,239925,,239925,,318286,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,524,Nepal,NPL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,73849,,73849,,112383,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3008775,,3008775,,5592073,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2032977,,2032977,,3161731,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1114166,,1114166,,1764288,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1927890,,1927890,,1791024,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1220515,,1220515,,1400362,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,117006,,117006,,131215,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,815344,,815344,,1555715,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1272957,,1272957,,1282087,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,26000,,26000,,27000,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1007163,,1007163,,1038570,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,19270321,,19270321,,16832139,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,18463151,,18463151,,14614804,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,75986,,75986,,93929,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,267690,,267690,,825603,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11447,,11447,,12835,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,620,Portugal,PRT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3605,,3605,,5811,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,442323,,442323,,576657,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1587833,,1587833,,1500908,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,13671,,13671,,30128,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,127687,,127687,,102557,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,27581,,27581,,36028,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1113570,,1113570,,2183876,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,12200,,12200,,30000,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14461,,14461,,42103,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1880235,,1880235,,2526636,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5221,,5221,,14246,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,363444,,363444,,607993,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1019788,,1019788,,1221415,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14016,,14016,,147769,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,13938141,,13938141,,21763804,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,230936,,230936,,438559,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,381792,,381792,,1001692,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2725558,,2725558,,1894332,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4249140,,4249140,,7163735,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,788,Tunisia,TUN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11571,,11571,,4638,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,793582,,793582,,1285276,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,873705,,873705,,1285788,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,12078,,12078,,10570,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,25372885,,25372885,,37812549,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2074651,,2074651,,3019538,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,862,Venezuela,VEN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3085,,3085,,2700,,,0
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,497572089,,497572089,,520473505,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,9139,,9139,,7998,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,15816269,,15816269,,14988972,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,40,Austria,AUT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,46485,,46485,,40680,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2518333,,2518333,,2934890,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,352405,,352405,,334952,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,33466,,33466,,76364,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,64095,,64095,,67492,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,127940,,127940,,124441,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1052498,,1052498,,1192984,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,19018,,19018,,28297,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1416074,,1416074,,1836064,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,391152,,391152,,258367,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,72969,,72969,,43355,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1663788,,1663788,,1109669,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1874,,1874,,4175,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,333104,,333104,,365419,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,88926043,,88926043,,163694585,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1580733,,1580733,,1534449,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,57040369,,57040369,,41245129,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,6905921,,6905921,,9311349,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5638613,,5638613,,4454897,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,39695,,39695,,48775,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3303591,,3303591,,2332620,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,62352,,62352,,69216,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,19520,,19520,,14898,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1436832,,1436832,,1716885,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3437160,,3437160,,3311221,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2269614,,2269614,,1575213,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,988176,,988176,,874848,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4571,,4571,,4000,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,231,Ethiopia,ETH,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11742,,11742,,10276,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,104225,,104225,,67192,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,450698,,450698,,603065,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,378713,,378713,,460163,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,112417,,112417,,116728,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,645546,,645546,,1068302,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,20221,,20221,,38800,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,300,Greece,GRC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,86199,,86199,,72685,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2381121,,2381121,,1550138,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,324,Guinea,GIN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,19051,,19051,,14541,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,44952,,44952,,29580,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,10432866,,10432866,,7743157,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3515204,,3515204,,2388746,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,13691,,13691,,15585,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,613399,,613399,,742591,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,412849,,412849,,327813,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1382017,,1382017,,2084999,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,36800,,36800,,28028,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,97103,,97103,,89114,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3468240,,3468240,,4302971,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,112284,,112284,,123602,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8944394,,8944394,,6747382,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,123527,,123527,,127727,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,47462,,47462,,80646,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,430,Liberia,LBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,42047,,42047,,35402,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,18452,,18452,,13977,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2354671,,2354671,,2151172,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,129823,,129823,,121731,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,154070887,,154070887,,126837872,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,9580496,,9580496,,8459601,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,496,Mongolia,MNG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,81085,,81085,,185750,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,403218,,403218,,493492,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,457961,,457961,,502906,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,520,Nauru,NRU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,39000,,39000,,40500,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1071243,,1071243,,1306580,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,421384,,421384,,426477,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1302264,,1302264,,1625370,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2432922,,2432922,,2071160,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,548,Vanuatu,VUT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1533,,1533,,5310,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1765875,,1765875,,1801837,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3628,,3628,,3175,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,562,Niger,NER,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,9700,,9700,,10192,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,566,Nigeria,NGA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,7293,,7293,,15106,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1753183,,1753183,,1679821,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,883155,,883155,,897252,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,182652,,182652,,165053,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1161671,,1161671,,1200311,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,586,Pakistan,PAK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,157200,,157200,,141041,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,33006349,,33006349,,20447792,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,25073308,,25073308,,30269991,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,767200,,767200,,745014,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,367514,,367514,,436172,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,187981,,187981,,212996,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,68563,,68563,,60000,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,174361,,174361,,115552,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,26871,,26871,,42341,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,92827,,92827,,83979,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,42978,,42978,,120000,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,17645,,17645,,14735,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,9701,,9701,,35178,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2421542,,2421542,,2641971,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1657218,,1657218,,964970,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,29025,,29025,,60380,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,160716,,160716,,200017,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,80926,,80926,,139003,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8527116,,8527116,,13999164,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,141777,,141777,,215512,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,155779,,155779,,151817,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3134903,,3134903,,1861992,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3614015,,3614015,,3906369,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,476470,,476470,,445043,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,593179,,593179,,769821,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8859835,,8859835,,9218884,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,447791,,447791,,422092,,,4
+H4,2013,2013,2013,4,0,2,Export,842,USA,USA,882,Samoa,WSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,78636,,78636,,265597,,,4
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,536524117,,597651357,,541892503,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,54318,,60506,,54861,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14257,,15882,,14400,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,23541314,,26223422,,23776865,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,40,Austria,AUT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5667,,6313,,5724,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2706931,,3015337,,2734016,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,447520,,498507,,451998,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,59463,,66238,,60058,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,49516,,55157,,50011,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2267252,,2525565,,2289938,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,974852,,1085919,,984606,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,176520,,196631,,178286,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2577243,,2870874,,2603031,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,298380,,332376,,301366,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1195966,,1332225,,1207933,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,356318,,396914,,359883,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,158269945,,176301949,,159853572,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1450253,,1615483,,1464764,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,43587092,,48553054,,44023218,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8484796,,9451486,,8569694,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,6769445,,7540701,,6837179,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,17437,,19423,,17611,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2556183,,2847414,,2581760,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,59215,,65961,,59807,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2524315,,2811915,,2549573,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3559543,,3965088,,3595159,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,643461,,716771,,649899,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,482074,,536998,,486898,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,50891,,56689,,51400,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14223,,15843,,14365,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,786427,,876026,,794296,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,624306,,695435,,630553,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,144558,,161027,,146004,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1223667,,1363082,,1235911,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,44408,,49467,,44852,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,300,Greece,GRC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,15263,,17002,,15416,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2189732,,2439212,,2211642,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,324,Guinea,GIN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,13260,,14771,,13393,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,63879,,71157,,64518,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4420423,,4924050,,4464653,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1884687,,2099413,,1903545,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,46940,,52288,,47410,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1063263,,1184403,,1073902,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,154596,,172210,,156143,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2297015,,2558719,,2319999,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,24012,,26747,,24252,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,132307,,147381,,133631,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5147534,,5734003,,5199040,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,184951,,206023,,186802,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14838,,16528,,14986,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8121012,,9046255,,8202270,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,358483,,399326,,362070,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,96958,,108004,,97928,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,21256,,23678,,21469,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1579775,,1759762,,1595582,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,132343,,147421,,133667,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,118592393,,132103856,,119779012,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,7479004,,8331102,,7553838,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,572918,,638192,,578651,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,367054,,408874,,370727,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1961904,,2185428,,1981535,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4105442,,4573182,,4146520,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1885039,,2099805,,1903900,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1560870,,1738703,,1576488,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1454959,,1620725,,1469517,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,69861,,77820,,70560,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1229926,,1370053,,1242232,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1169992,,1303292,,1181699,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,70374,,78392,,71078,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1224925,,1364483,,1237181,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,586,Pakistan,PAK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,182090,,202836,,183912,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,23021826,,25644747,,23252179,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,26019632,,28984100,,26279981,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1224797,,1364340,,1237052,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,357614,,398357,,361192,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,620,Portugal,PRT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5171,,5760,,5223,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,336313,,374630,,339678,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,23007,,25628,,23237,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11270,,12554,,11383,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,20020,,22301,,20220,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,57019,,63516,,57590,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,62687,,69829,,63314,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,23314,,25970,,23547,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,16380,,18246,,16544,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3214217,,3580419,,3246378,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1816889,,2023891,,1835069,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,185549,,206689,,187406,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,89106,,99258,,89998,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,25663,,28587,,25920,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,17719638,,19738471,,17896938,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,362044,,403293,,365667,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,322824,,359604,,326054,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3840950,,4278557,,3879382,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3683445,,4103107,,3720301,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1886152,,2101045,,1905025,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,705438,,785810,,712497,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,26881,,29944,,27150,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14884057,,16579827,,15032985,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,590286,,657538,,596192,,,6
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,882,Samoa,WSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,84893,,94565,,85742,,,6
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,625134302,,625134302,,616733820,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,137990,,137990,,109972,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4497,,4497,,12000,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,20430214,,20430214,,18513153,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2804927,,2804927,,3296180,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,370862,,370862,,414863,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,62863,,62863,,115372,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2836530,,2836530,,2771480,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,770442,,770442,,1054435,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,203760,,203760,,245596,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1642871,,1642871,,2306314,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,593652,,593652,,420739,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1336012,,1336012,,1135855,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2028,,2028,,6490,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,529808,,529808,,537300,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,95275416,,95275416,,154159600,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1604150,,1604150,,1581440,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,54508583,,54508583,,47336077,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5109994,,5109994,,6875605,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11004822,,11004822,,7817970,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4548,,4548,,10442,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,6646280,,6646280,,5075422,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,36628,,36628,,32054,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,92458,,92458,,97605,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2362553,,2362553,,2985925,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4496893,,4496893,,4780230,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,851576,,851576,,560130,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,809623,,809623,,775684,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,115414,,115414,,101000,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,887155,,887155,,1376468,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,997895,,997895,,1006126,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,146451,,146451,,130265,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,973825,,973825,,1627862,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,132287,,132287,,160452,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2103423,,2103423,,1677947,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,35945,,35945,,21485,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,7966035,,7966035,,5826055,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1847247,,1847247,,1731424,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,41389,,41389,,69956,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,20259,,20259,,19385,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,706131,,706131,,1432865,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,217891,,217891,,223373,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1895340,,1895340,,2866558,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,218925,,218925,,239741,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3546757,,3546757,,5766438,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5668,,5668,,11532,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,20038,,20038,,21404,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11450983,,11450983,,9730557,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,36751,,36751,,39698,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14892,,14892,,16634,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,430,Liberia,LBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,31200,,31200,,34122,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,18554,,18554,,15295,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1847938,,1847938,,1798995,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,86716,,86716,,86570,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,239868458,,239868458,,179544415,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8714585,,8714585,,8198356,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,496,Mongolia,MNG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,42369,,42369,,131051,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,638901,,638901,,910046,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,373920,,373920,,451062,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2475239,,2475239,,3731979,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2438725,,2438725,,3269091,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1615365,,1615365,,1936498,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2134504,,2134504,,1892178,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,548,Vanuatu,VUT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,852,,852,,3420,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1042915,,1042915,,1016165,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,260607,,260607,,353904,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1343218,,1343218,,1630753,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1018525,,1018525,,1124418,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1188,,1188,,3000,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1142494,,1142494,,1184661,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,38558352,,38558352,,25063735,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,17737828,,17737828,,22683034,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1939160,,1939160,,1668077,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,334100,,334100,,386713,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,620,Portugal,PRT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3066,,3066,,3830,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,180111,,180111,,214087,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,167600,,167600,,265230,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2618,,2618,,6500,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,71235,,71235,,55544,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,53682,,53682,,79784,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,53141,,53141,,49212,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,16109,,16109,,46181,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2747434,,2747434,,3366529,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,833694,,833694,,717343,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,798,,798,,3375,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,502580,,502580,,670795,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,19354770,,19354770,,23138308,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,671753,,671753,,724982,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,267121,,267121,,458892,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,6801385,,6801385,,3883318,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3950596,,3950596,,4414693,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1284488,,1284488,,1292293,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,688394,,688394,,826133,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,15249479,,15249479,,21580470,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,540242,,540242,,536863,,,4
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,882,Samoa,WSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,117612,,117612,,156762,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,621667997,,621667997,,615060641,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,121354,,121354,,95330,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,42339,,42339,,99255,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,15228512,,15228512,,17260842,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3930127,,3930127,,4729070,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,510409,,510409,,544224,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,7026,,7026,,24140,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,68883,,68883,,84214,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1731222,,1731222,,2746823,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,759368,,759368,,971563,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,167280,,167280,,176159,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,794802,,794802,,1239446,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,560464,,560464,,397953,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1343325,,1343325,,1283582,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1099,,1099,,3494,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,99857531,,99857531,,154826722,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1707013,,1707013,,1758960,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,140,Central African Rep.,CAF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14723,,14723,,22395,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1372,,1372,,5420,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,71634005,,71634005,,57728836,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8251625,,8251625,,9835380,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,10478523,,10478523,,6278198,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1661,,1661,,4377,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8026404,,8026404,,6129501,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,192,Cuba,CUB,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,769176,,769176,,573699,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,142342,,142342,,199736,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,17013,,17013,,27540,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2547328,,2547328,,2878163,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5599,,5599,,4900,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,6136013,,6136013,,5782702,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,155065,,155065,,102197,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,233934,,233934,,217496,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5224,,5224,,10764,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,837980,,837980,,1041666,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2572371,,2572371,,2224362,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,92894,,92894,,89625,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2248420,,2248420,,2190314,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,162297,,162297,,186885,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,300,Greece,GRC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5146,,5146,,7452,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,10632364,,10632364,,9292357,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,36487,,36487,,34915,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11164202,,11164202,,8041223,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2665018,,2665018,,3171317,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,36164,,36164,,74409,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,108242,,108242,,96094,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,706791,,706791,,1430270,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,312892,,312892,,291975,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1401695,,1401695,,2609465,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,160041,,160041,,239149,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,4110572,,4110572,,6445109,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,39477,,39477,,66091,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2950,,2950,,12608,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8046814,,8046814,,9589076,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,71880,,71880,,73463,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,34838,,34838,,26091,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,430,Liberia,LBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,24810,,24810,,21606,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,9656,,9656,,7949,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1482842,,1482842,,1483070,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,98043,,98043,,87396,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,221874855,,221874855,,160892171,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,10417518,,10417518,,9652683,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,630321,,630321,,1029504,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,306365,,306365,,188965,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,524,Nepal,NPL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,174901,,174901,,214481,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2883583,,2883583,,4202514,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1928174,,1928174,,3049813,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1163740,,1163740,,1406034,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2079149,,2079149,,1876409,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,548,Vanuatu,VUT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2172,,2172,,7964,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1612212,,1612212,,1523954,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,182617,,182617,,222669,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1381557,,1381557,,1650532,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1189823,,1189823,,1228132,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11962,,11962,,30463,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1039815,,1039815,,1085470,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,30612444,,30612444,,20383661,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,13732919,,13732919,,14155239,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,26732,,26732,,51070,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,417593,,417593,,444117,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,185595,,185595,,168132,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,475662,,475662,,827295,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,8860,,8860,,8247,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,163789,,163789,,131982,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,50842,,50842,,49582,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,40065,,40065,,48453,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,66166,,66166,,57700,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,52053,,52053,,98336,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2896214,,2896214,,3215224,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,16521,,16521,,34877,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,705,Slovenia,SVN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,11404,,11404,,11826,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,410147,,410147,,705864,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,35538,,35538,,126569,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14999670,,14999670,,24309440,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,777848,,777848,,772315,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,548046,,548046,,1020799,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,5945447,,5945447,,3364365,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,3962564,,3962564,,3289024,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,788,Tunisia,TUN,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,2438,,2438,,4876,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,1246708,,1246708,,1093862,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,610042,,610042,,797282,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,18304,,18304,,45409,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,14430334,,14430334,,25891429,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,711189,,711189,,794890,,,4
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,882,Samoa,WSM,,,,,,,,2203,Beer made from malt,7,Volume in litres,,,18452,,18452,,20000,,,4
